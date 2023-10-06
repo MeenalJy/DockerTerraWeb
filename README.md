@@ -9,7 +9,6 @@ DockerTerraWeb is a simple project that demonstrates how to deploy a web applica
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
